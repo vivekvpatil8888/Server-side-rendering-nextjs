@@ -1,0 +1,1 @@
+{"name":"next-ssr","version":"1.0.0","description":"JuniorToSeniorCoursePart","main":"index.js","scripts":{"start":"next"},"keywords":[],"author":"","license":"ISC","dependencies":{"isomorphic-unfetch":"^3.0.0","next":"^9.4.4","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"next-ssr@1.0.0"}
